@@ -1,0 +1,17 @@
+<?php
+
+    $num1 = $_GET ['num1'];
+    $num2 = $_GET ['num1'];
+
+    echo "Digite um numero: ";
+    echo "\nDigite outro numero: ";
+
+    $soma = $num+$num2;
+    $sub = $num+$num2;
+    $multi = $num+$num2;
+    $div = $num+$num2;
+
+    echo("A soma dos número informados é: $soma");
+    echo("\nA subtração dos número informados é: $sub");
+    echo("\nA multiplicação dos número informados é: $multi");
+    echo("\nA divisão dos número informados é: $div");
